@@ -1,5 +1,4 @@
-Hi, 
-Please find the complete files attached. 
+
 The DB.pm needs to be inside a directory called "GUI" (it is part of the requirements as per the package name). 
 Algorithm I followed is this: 
 
