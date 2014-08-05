@@ -1,0 +1,5 @@
+CREATE TABLE report (
+	domain VARCHAR(255) NOT NULL,
+	count INT NOT NULL,
+	updated_on DATE
+);
